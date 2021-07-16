@@ -1,0 +1,16 @@
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\bin\Debug\net5.0\StudentAspirantClasses.exe
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\bin\Debug\net5.0\StudentAspirantClasses.deps.json
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\bin\Debug\net5.0\StudentAspirantClasses.runtimeconfig.json
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\bin\Debug\net5.0\StudentAspirantClasses.runtimeconfig.dev.json
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\bin\Debug\net5.0\StudentAspirantClasses.dll
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\bin\Debug\net5.0\ref\StudentAspirantClasses.dll
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\bin\Debug\net5.0\StudentAspirantClasses.pdb
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\obj\Debug\net5.0\StudentAspirantClasses.csproj.AssemblyReference.cache
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\obj\Debug\net5.0\StudentAspirantClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\obj\Debug\net5.0\StudentAspirantClasses.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\obj\Debug\net5.0\StudentAspirantClasses.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\obj\Debug\net5.0\StudentAspirantClasses.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\obj\Debug\net5.0\StudentAspirantClasses.dll
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\obj\Debug\net5.0\ref\StudentAspirantClasses.dll
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\obj\Debug\net5.0\StudentAspirantClasses.pdb
+C:\Users\Pavel\Desktop\Программы\StudentAspirantClasses\obj\Debug\net5.0\StudentAspirantClasses.genruntimeconfig.cache
